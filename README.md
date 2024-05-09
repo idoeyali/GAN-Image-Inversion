@@ -1,6 +1,5 @@
 # GAN-Image-Inversion
-Inverting images using a Generative Adversarial Network (GAN)
-GAN Image Inversion with Degradation.
+
 This repository contains code for inverting images using a Generative Adversarial Network (GAN), specifically focusing on applying different degradation techniques during the inversion process.
 
 ## Usage
